@@ -1,4 +1,4 @@
-# Simple Calculator App
+# Basic Calculator App
 
 It is the simple calculator which does basic calculations. You can see the live version here : https://mighty-eyrie-08205.herokuapp.com/
 
@@ -13,9 +13,9 @@ It is the simple calculator which does basic calculations. You can see the live 
   
 ## Installation
 
-1)Clone the project from git by using URL: https://github.com/ShrutiMavani/Basic_Calculator.git
+1)Clone the project from git by using URL: https://github.com/ShrutiMavani/My_Calculator.git
 
-2)Run these commands in 'Shruti_Calculator' folder to start backend server.
+2)Run these commands in 'Basic_Calculator' folder to start backend server.
 ```
 npm install
 ```

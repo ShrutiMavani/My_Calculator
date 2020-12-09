@@ -23,12 +23,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShrutiMavani/Basic_Calculator.git"
+    "url": "git+https://github.com/ShrutiMavani/My_Calculator.git"
   },
   "keywords": [],
   "author": "",
   "bugs": {
-    "url": "https://github.com/ShrutiMavani/Basic_Calculator/issues"
+    "url": "https://github.com/ShrutiMavani/My_Calculator/issues"
   },
-  "homepage": "https://github.com/ShrutiMavani/Basic_Calculator.git#readme"
+  "homepage": "https://github.com/ShrutiMavani/My_Calculator.git#readme"
 }
