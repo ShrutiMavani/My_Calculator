@@ -1,0 +1,62 @@
+.calculator {
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    max-width: 30%;
+}
+
+h1 {
+    text-align: center
+}
+
+.buttons {
+    display: block;
+    background-color: #697b82;
+}
+
+button {
+    width: 25%;
+    height: 60px;
+    font-size: 35px;
+    background-color: rgb(94, 95, 95);
+}
+
+#entrybox {
+    width: 85%;
+    height: 65px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #b4b39d;
+    border-radius: 6px;
+    background-color: #c3c2ab;
+  }
+
+.btn-op {
+    background-color: #DAA520;
+}
+.btn-op1 {
+    background-color: #474743;
+}
+
+.lefttext {
+    text-align: left;
+  }
+
+
+.result {
+  height: 60px;
+  background-color: #bbb;
+  width: 100%;
+}
+.result p {
+    font-size: 2em;
+}
+
+.records h2 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.records p {
+    text-align: center
+}

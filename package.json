@@ -1,0 +1,34 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.14.1",
+    "npm": "6.14.8",
+    "yarn": "1.22.10"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.13.0",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "heroku-postbuild": "cd client && yarn && yarn run build"
+  },
+  "description": "It is the simple calculator which does basic calculation.",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShrutiMavani/Basic_Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ShrutiMavani/Basic_Calculator/issues"
+  },
+  "homepage": "https://github.com/ShrutiMavani/Basic_Calculator.git#readme"
+}
